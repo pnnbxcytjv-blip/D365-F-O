@@ -9,6 +9,8 @@ coverY: 0
 本节为大家介绍D365 F\&O的组成和内容，目的是让大家快速了解F\&O的核心模块和能力
 {% endhint %}
 
+### 概述
+
 Dynamics 365 应用程序，企业可以：
 
 * **吸引客户并建立关系** - 重新构想与客户之间的互动，通过使用数据和智能来创造个性化的市场营销、销售和服务体验，从而改进每次互动。
@@ -16,7 +18,7 @@ Dynamics 365 应用程序，企业可以：
 * **为员工提供支持**- 利用工作区中提供的数据和见解雇用和吸引优秀人才，并促使其发挥最大潜力。
 * **革新产品和服务** - 将数据作为战略资产使用，以发现新的市场商机、生产创新产品，以及通过全面了解客户和运营来创造卓越的客户体验。
 
-## D365 Finance & Operations
+### D365 Finance & Operations
 
 Dynamics 365 是指一系列商业应用程序，涵盖广泛的业务领域。 这些解决方案有时称为业务线应用程序或 LOB 解决方案。 在过去，Dynamics 365 应用分为两类：客户活动应用程序和企业资源规划 (ERP) 应用程序。 但是，随着 Microsoft Business Applications、Dynamics 365 和 Microsoft Power Platform 应用程序的发展，这些业务线之间的界线已变得模糊，越来越趋向一个整体。 这些选项还包括 Dynamics 365 与 Microsoft Modern Workplace (Microsoft 365) 产品、LinkedIn、Microsoft Power BI、Microsoft Dynamics 365 Business Central 和其他 Microsoft 应用程序的集成。
 
@@ -29,7 +31,7 @@ Dynamics 365 是指一系列商业应用程序，涵盖广泛的业务领域。 
 * **Dynamics 365 Human Resources**- 简化许多记录保留任务并实现多个人员配备流程的自动化。 这些流程包括员工挽留、福利管理、培训、绩效评审和变更管理。 Human Resources 还提供了一个框架，供人力资源员工管理监督领域。
 * **Dynamics 365 Commerce**- 提供统一后端办公系统、店内、呼叫中心和数字体验的综合性全渠道解决方案。 Commerce 支持您通过个性化的客户互动来建立品牌忠诚度，通过提高员工工作效率来增加收入，优化运营以降低成本，以及提高供应链效率。
 
-## Microsoft Power Platform <a href="#module-unit-title" id="module-unit-title"></a>
+### Microsoft Power Platform <a href="#module-unit-title" id="module-unit-title"></a>
 
 * **Dynamics 365 Virtual Agent** - 通过智能、自适应的虚拟代理提供卓越的客户服务。 让客户服务专家通过 AI 驱动的见解创建和增强机器人。
 * **Power Apps** - 一个包括多种应用、服务和连接器的套件，其中的数据平台可提供快速的开发环境，以针对您的业务需求构建自定义应用。 Power Apps 可以分为两类：画布应用和模型驱动应用。 画布应用使用制作者工作室帮助您自定义开发应用的外观和行为，而模型驱动应用程序使用传统模型制作用户界面。 此外，画布应用更广泛地用于 Dataverse 之外的数据，而模型驱动应用的外观和行为类似于 Dynamics 365 应用，并且直接构建在 Dataverse 之上。

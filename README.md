@@ -1,5 +1,6 @@
 ---
 description: 导读
+coverY: 0
 ---
 
 # 第一章：Dynamics 365 F\&O入门

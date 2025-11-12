@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Dynamics 365 F\&O](README.md)
+* [第一章：Dynamics 365 F\&O入门](README.md)
